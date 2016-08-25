@@ -1,0 +1,23 @@
+---
+layout: default
+title: Practice Catalogue
+---
+
+<div class="blog row">
+  <div class="twelve columns">
+    {% include masthead.html %}
+  </div>
+</div>
+<div class="row">
+  <div class="twelve columns">
+    {% for post in site.posts %}
+      <article>
+        <header>
+          <a href="{{ post.url | prepend: site.baseurl }}"><h5>{{ post.title | escape }}</h5></a>
+          <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
+        </header>
+        {{ post.content }}
+      </article>
+    {% endfor %}
+  </div>
+</div>

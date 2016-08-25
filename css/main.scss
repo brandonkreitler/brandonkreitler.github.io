@@ -1,0 +1,130 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import 'normalize';
+@import 'skeleton';
+
+html, body, .container {
+  height: 100%;
+}
+
+.container {
+  height: auto;
+  min-height: 100%;
+  max-width: 60rem;
+  margin: auto;
+  padding-bottom: 12rem;
+  padding-top: 3rem;
+}
+
+body {
+  margin-top: 10rem;
+  background-color: #fefefe;
+  color: #4a4a4a;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 100;
+  font-size: 1.5rem;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 6rem;
+}
+
+h5 {
+  margin-bottom: 0rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Space Mono', monospace;
+}
+
+a {
+  color: #4a4a4a;
+  text-decoration: underline;
+  color: #4a4a4a;
+
+  &:hover {
+    color: #4a4a4a;
+  }
+}
+
+.title-link {
+  text-decoration: none;
+}
+
+blockquote {
+  background-color: transparent;
+  border-left: 5px solid #ddd;
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 550px) {
+  blockquote {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  margin-left: 2rem;
+  margin-bottom: 6rem;
+}
+
+li {
+  list-style-image: none;
+  list-style-type: none;
+
+  &:before {
+    margin-right: 1rem;
+    content: '+';
+  }
+}
+
+.title {
+  font-size: 25px;
+  margin-bottom: 10rem;
+}
+
+header {
+  margin-bottom: 2rem;
+
+  & > a {
+    text-decoration: none;
+  }
+}
+
+article {
+  margin-bottom: 8rem;
+}
+
+.date {
+  font-family: 'Courier New', monospace;
+}
+
+.description{
+  margin-bottom: 2rem;
+}
+
+.subscribe {
+  margin-bottom: 6rem;
+}
+
+footer {
+  font-family: 'Space Mono', monospace;
+  text-align: center;
+  opacity: 0.3;
+}

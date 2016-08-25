@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="blog row">
+  <div class="twelve columns">
+    {% include masthead.html %}
+  </div>
+</div>
+<div class="row">
+  <div class="twelve columns">
+    <article>
+      <header>
+        <a href="{{ page.url | prepend: site.baseurl }}"><h5>{{ page.title | escape }}</h5></a>
+        <div class="date">{{ page.date | date: "%b %-d, %Y" }}</div>
+      </header>
+      {{ content }}
+    </article>
+  </div>
+</div>
