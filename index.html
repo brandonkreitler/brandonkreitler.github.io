@@ -14,7 +14,6 @@ title: Practice Catalogue
       <article>
         <header>
           <a href="{{ post.url | prepend: site.baseurl }}"><h5>{{ post.title | escape }}</h5></a>
-          <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
         </header>
         {{ post.content }}
       </article>
