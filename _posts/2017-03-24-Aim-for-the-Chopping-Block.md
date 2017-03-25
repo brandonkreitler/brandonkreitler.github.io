@@ -2,6 +2,7 @@
 layout: post
 title: Test
 date: 2017-03-24
+draft: true
 ---
 
 Who will teach me to write? a reader wanted to know.
