@@ -10,3 +10,6 @@ The page, the page, that eternal blackness, the blackness of eternity which you 
 There is another way of saying this.  
 
 Aim for the chopping block.  If you aim for the wood, you will have nothing.  Aim past the wood, aim through the wood; aim for the chopping block.
+
+
+> [Annie Dillard, The Writing Life]
