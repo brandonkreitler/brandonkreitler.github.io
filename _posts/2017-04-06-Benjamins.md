@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Benjamin's 13 Theses
-date: 2017-05-06
+date: 2017-04-06
 ---
 
 I. Anyone intending to embark on a major work should be lenient with himself and, having completed a stint, deny himself nothing that will not prejudice the next.
