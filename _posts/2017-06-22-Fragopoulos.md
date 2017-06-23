@@ -1,6 +1,6 @@
 ---
 layout: post
-title: George Fragopoulos\: "We wander like homeless iambs"
+title: "We wander like homeless iambs"
 date: 2017-06-22
 ---
 
