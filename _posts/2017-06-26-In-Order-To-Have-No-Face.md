@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Order to Have No Face
-date: 06-26-2017
+date: 2017-06-26
 ---
 
 
