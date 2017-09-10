@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Persist, Endure, Follow, Watch
 date: 2017-09-08
 ---
