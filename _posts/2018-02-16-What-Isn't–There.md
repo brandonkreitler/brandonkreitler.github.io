@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: What Isn't There Now?
 date: 2018-02-16
 ---
