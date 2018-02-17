@@ -28,20 +28,27 @@ Lucretius was an Epicurean classical poet who had a lot to say about why things 
 Moore is a digression, since Phillips doesn’t allude to her but to the second book of Lucretius’s _On the Nature of Things_, which states that:
  
 >'Tis sweet, when, down the mighty main, the winds
+>
 >Roll up its waste of waters, from the land
+>
 >To watch another's labouring anguish far,
+>
 >Not that we joyously delight that man
+>
 >Should thus be smitten, but because 'tis sweet
+>
 >To mark what evils we ourselves be spared
  
 For Lucretius, it’s full-eyed knowledge that makes the view of another’s suffering important. There but for the grace of the gods go I. A narrow escape can only mean something, can only prompt revelation, if one knows the specific danger one has dodged. Otherwise, it’s just a Tuesday.	
 
 With that in mind, it’s hard not to think of _The Inferno_, in which Dante’s main character gets a guided tour of the damnation of others. It’s not that he needs to be scared straight, but there is something about witnessing the pit’s intricate pains firsthand that becomes necessary to his own salvation. Thinking about this, I remembered that the opening of _The Inferno_’s first canto contains an image strikingly similar to the foundering ships of Phillips and Lucretius.
 
-Dante’s main figure wakes in a dark wood, not knowing how he got there. As he begins to pull himself together, he feels like a swimmer who:
+Dante’s figure wakes in a dark wood, not knowing how he got there. As he begins to pull himself together, he feels like a swimmer who:
  
 >… still panting breath,
-Now safe upon the shore, out of the deep,
-Might turn for one last look on the dangerous waters.
+>
+>Now safe upon the shore, out of the deep,
+>
+>Might turn for one last look on the dangerous waters.
  
 This is the feeling, an adrenaline-spiked solace, known to those who escape drowning, coughing on all fours on the sand. He isn’t witnessing a shipwreck from afar and counting himself lucky, but rather, remembering peril first-hand. He turns for another look at the water because he thinks he might still find himself there. More and more it all seems related.
