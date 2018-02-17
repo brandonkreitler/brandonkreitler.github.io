@@ -6,12 +6,19 @@ date: 2018-02-19
 In any poem, and particularly in a Carl Phillips poem, syntax can indicate an emotional state, and turns of thought can reflect physical, sometimes erotic journeying. For example, in “Swimming” from Phillips’s newest book _Wild is the Wind_, he writes:
  
 >…Everything
+
 in waves, or at least wave-like, as when another's 
+
 suffering, being greater, displaces our own, or
+
 I understand it should, which is meant to be 
+
 different, I'm sure of it, from that pleasure
+
 Lucretius speaks of, in witnessing from land
+
 a ship foundering at sea, though more and more
+
 it all seems related. 
  
 Lucretius was an Epicurean classical poet who had a lot to say about why things are the way they are (turns out: atoms)—but for a moment I thought Phillips may have misattributed the image of the foundering ship. I trusted him more than myself, but what was I remembering, and why did it seem so apt?
