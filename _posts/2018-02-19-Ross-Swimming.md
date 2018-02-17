@@ -7,19 +7,19 @@ In any poem, and particularly in a Carl Phillips poem, syntax can indicate an em
  
 >…Everything
 
-in waves, or at least wave-like, as when another's 
+>in waves, or at least wave-like, as when another's 
 
-suffering, being greater, displaces our own, or
+>suffering, being greater, displaces our own, or
 
-I understand it should, which is meant to be 
+>I understand it should, which is meant to be 
 
-different, I'm sure of it, from that pleasure
+>different, I'm sure of it, from that pleasure
 
-Lucretius speaks of, in witnessing from land
+>Lucretius speaks of, in witnessing from land
 
-a ship foundering at sea, though more and more
+>a ship foundering at sea, though more and more
 
-it all seems related. 
+>it all seems related. 
  
 Lucretius was an Epicurean classical poet who had a lot to say about why things are the way they are (turns out: atoms)—but for a moment I thought Phillips may have misattributed the image of the foundering ship. I trusted him more than myself, but what was I remembering, and why did it seem so apt?
 
@@ -28,11 +28,11 @@ Lucretius was an Epicurean classical poet who had a lot to say about why things 
 Moore is a digression, since Phillips doesn’t allude to her but to the second book of Lucretius’s _On the Nature of Things_, which states that:
  
 >'Tis sweet, when, down the mighty main, the winds
-Roll up its waste of waters, from the land
-To watch another's labouring anguish far,
-Not that we joyously delight that man
-Should thus be smitten, but because 'tis sweet
-To mark what evils we ourselves be spared
+>Roll up its waste of waters, from the land
+>To watch another's labouring anguish far,
+>Not that we joyously delight that man
+>Should thus be smitten, but because 'tis sweet
+>To mark what evils we ourselves be spared
  
 For Lucretius, it’s full-eyed knowledge that makes the view of another’s suffering important. There but for the grace of the gods go I. A narrow escape can only mean something, can only prompt revelation, if one knows the specific danger one has dodged. Otherwise, it’s just a Tuesday.	
 
