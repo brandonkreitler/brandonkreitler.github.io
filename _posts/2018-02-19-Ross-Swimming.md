@@ -39,7 +39,7 @@ Moore is a digression, since Phillips doesn’t allude to her but to the second 
 >
 >To mark what evils we ourselves be spared
  
-For Lucretius, it’s full-eyed knowledge that makes the view of another’s suffering important. There but for the grace of the gods go I. A narrow escape can only mean something, can only prompt revelation, if one knows the specific danger one has dodged. Otherwise, it’s just a Tuesday.	
+For Lucretius, it’s full-eyed knowledge that makes the view of another’s suffering important. _There but for the grace of the gods go I_. A narrow escape can only mean something, can only prompt revelation, if one knows the specific danger one has dodged. Otherwise, it’s just a Tuesday.	
 
 With that in mind, it’s hard not to think of _The Inferno_, in which Dante’s main character gets a guided tour of the damnation of others. It’s not that he needs to be scared straight, but there is something about witnessing the pit’s intricate pains firsthand that becomes necessary to his own salvation. Thinking about this, I remembered that the opening of _The Inferno_’s first canto contains an image strikingly similar to the foundering ships of Phillips and Lucretius.
 
