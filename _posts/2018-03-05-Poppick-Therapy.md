@@ -34,7 +34,7 @@ But what if I were to put it in a novel?
  
 In certain Henry James novels people send their effects out in front of their bodies to probe the environment: she is not wearing a hat upon exiting the house and surveying the great lawn, indicating that she must be staying for a spell; and so too the young man’s blood relation must be staying, as he has accompanied her from Schenectady; and yet she knows nothing of the illness that’s befallen his father; so in the absence of her hat we see that her interlocutor is of two minds about her—his ballistic dog runs up to her in supine eagerness as he unfixes his gaze from the blades of grass in the middle distance and settles in to try to see her face, this time for the first time.
  
-A slate nostalgia spilled forth a green flash, followed seconds later by a light veil of snow.
+_A slate nostalgia spilled forth a green flash, followed seconds later by a light veil of snow._
  
 On the contrary, I saw that something called “poetry,” loosely defined, might in fact at some distant date play a hand in killing me.
  
@@ -49,7 +49,7 @@ But a book is meant to be read in silence, not among these pyrotechnics.
  
 Can you say more about that?
  
-No fiction absorbed the shrillness of the apartment, the subway, the office so well as the sense that his life was running over his own rails, as if he were a thick moss growing over them, choking the luxurious steel, and humming under his head he felt something large and heavy gliding closer.
+_No fiction absorbed the shrillness of the apartment, the subway, the office so well as the sense that his life was running over his own rails, as if he were a thick moss growing over them, choking the luxurious steel, and humming under his head he felt something large and heavy gliding closer._
  
 I believe in the reality of absent things—if I see that something isn’t there I assume it must be somewhere else.
  
@@ -57,7 +57,7 @@ Trains, fish, and streaming services are examples of things that are inevitably 
  
 I dreamt my intelligence was a character from a streaming service, I don’t remember which one, who passed me on a dusty road.
  
-“Because you take satisfaction in your friend’s misfortunes. Because you console yourself with the thought that this satisfaction is by no means pleasure. Because to experience pleasure in this case would augur your own misfortune, but satisfaction would not, you little father, I say you are perched on heaven’s wall,” he added.
+_“Because you take satisfaction in your friend’s misfortunes. Because you console yourself with the thought that this satisfaction is by no means pleasure. Because to experience pleasure in this case would augur your own misfortune, but satisfaction would not, you little father, I say you are perched on heaven’s wall,” he added._
  
 His voice was an indentation in the air, inaudible but oppressive, like a pile of wheels through which the honeysuckle sings its listening.
  
@@ -74,7 +74,7 @@ Stationed in a vase by a window overlooking the veranda, flowers ask the leisure
  
 A waiting room with tufts of white noise blooming from the carpet. Behind the doors, voices dig in the dirt.
  
-His flesh sprinted after them through the wedding’s prolix grasses, but his voice remained in the veranda.
+_His flesh sprinted after them through the wedding’s prolix grasses, but his voice remained in the veranda._
  
 How would the meadow describe this scene of its erasure? “Hi?” It waves.
  
@@ -86,13 +86,13 @@ The shade was pleased to see itself as it entered the scene by the willow hangin
  
 But, one might interject, a meadow’s contagion is not music’s problem.
  
-A bewitched reel, my sorrow rolled beside me as I laughed into the canal; swans clapped along the dactylic reflection of the willows. Laws, in a word, through which he could dimly perceive his counterfeit face floating behind the coach’s glass.
+_A bewitched reel, my sorrow rolled beside me as I laughed into the canal; swans clapped along the dactylic reflection of the willows. Laws, in a word, through which he could dimly perceive his counterfeit face floating behind the coach’s glass._
  
 I entered the office.
  
 I want to say that the surface of a page is itself a kind of speech. I rolled up my sleeves and assumed its labor, gathering currency from the undead daffodils.
  
-A swift breeze descended, swept them away from the office, scattering a few loose petals. Sitting across from her in her office, too far into her face, I could only see whitecaps.
+_A swift breeze descended, swept them away from the office, scattering a few loose petals. Sitting across from her in her office, too far into her face, I could only see whitecaps._
  
 She looked up from her book and scanned the horizon. A menacing electricity was gathering before her over the sea in a green cloud drifting west. “Can you say more about that?” she asked, gathering her notes.
  
