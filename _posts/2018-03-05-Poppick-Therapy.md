@@ -97,3 +97,5 @@ _A swift breeze descended, swept them away from the office, scattering a few loo
 She looked up from her book and scanned the horizon. A menacing electricity was gathering before her over the sea in a green cloud drifting west. “Can you say more about that?” she asked, gathering her notes.
  
 His footsteps clapped through the valley.
+
+[Dan's first book is _The Police_ (Omnidawn)]
