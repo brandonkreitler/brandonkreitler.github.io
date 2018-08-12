@@ -76,4 +76,4 @@ A giddy and credulous young man, one who could never conceive of himself as bein
 **Comment**. These two seem quite agreed that Moore is a pervert. She takes something that should be nice and turns it into a curdling mess. But how in the world can something be compared to de Sade if _no one even notices it_? Is that not the case with Moore’s prosody? Or let me take it one step further and suggest that maybe the first person in the dialogue is Young Goodman Brown. 
 
  
-[Anthony’s most recent book is Try Never (Canarium, 2017)]
+[Anthony’s most recent book is _Try Never_ (Canarium, 2017)]
