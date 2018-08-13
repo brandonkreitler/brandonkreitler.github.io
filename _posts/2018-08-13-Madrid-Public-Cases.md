@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anthony Madrid's Public Cases
+title: Anthony Madrid's Five Public Cases, August 2018
 date: 2018-08-13
 ---
 **1**
