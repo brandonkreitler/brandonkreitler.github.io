@@ -5,7 +5,7 @@ date: 2018-10-22
 ---
 _Editor’s Note: what follows is every third thesis from an essay in progress._
 
-3. The thing is that poetry isn't fundamentally incompatible with bragging. It's the one mode of literature where the fact of bragging isn't inherently disastrous. At its root the poet's task is to affirm, one by one, over space and time, identities; one of those identities may be the poet's own.
+3) The thing is that poetry isn't fundamentally incompatible with bragging. It's the one mode of literature where the fact of bragging isn't inherently disastrous. At its root the poet's task is to affirm, one by one, over space and time, identities; one of those identities may be the poet's own.
 
 6. One can go further and say that modern bragging poems—the ones that succeed as poems, anyway—are invariably poems taking American citizenship as a central theme. Whitman's self-song is constructed to exceed his personal circumstances, to encompass a nation. He views himself through a collective lens, imagining a universal community joined by democratic perspective. He is great because he sees and says that his country, America, is great. He is including everyone in his celebration, on his terms—which, he says, are everyone's terms. It is mystical poetry that aims not to transcend material reality, but to sacralize it as such.
 
