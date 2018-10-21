@@ -9,7 +9,7 @@ _Editor’s Note: what follows is every third thesis from an essay in progress._
 
 6: One can go further and say that modern bragging poems—the ones that succeed as poems, anyway—are invariably poems taking American citizenship as a central theme. Whitman's self-song is constructed to exceed his personal circumstances, to encompass a nation. He views himself through a collective lens, imagining a universal community joined by democratic perspective. He is great because he sees and says that his country, America, is great. He is including everyone in his celebration, on his terms—which, he says, are everyone's terms. It is mystical poetry that aims not to transcend material reality, but to sacralize it as such.
 
-9. The members of this new student population called to poetry, then, had the motive (to confirm their citizenship), means (Whitman's precedent), and opportunity (as postwar culture grew more tolerant of personal rhetoric) to brag.
+9: The members of this new student population called to poetry, then, had the motive (to confirm their citizenship), means (Whitman's precedent), and opportunity (as postwar culture grew more tolerant of personal rhetoric) to brag.
 
 12: This, too, we are made to understand, is great, American, canonical poetry: "I am putting my proud American boast / right here with the others." If America is defined by exceptional realness and courage, pregnancy and birth are as exceptionally real and courageous as it gets.
 
